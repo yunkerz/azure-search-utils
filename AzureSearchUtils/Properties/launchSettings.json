@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AzureSearchUtils": {
+      "commandName": "Project",
+      "commandLineArgs": "sid imdbbasicsindex C:\\Temp\\imdbbasicsindexdefinition.json"
+    }
+  }
+}
